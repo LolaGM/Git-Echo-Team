@@ -8,7 +8,32 @@ startButton.addEventListener("click", startWheel);
 resetButton.addEventListener("click", reset);
 addButton.addEventListener("click", addCoder);
 
-let listaCoders = [];
+var listaCoders = [
+  {name:"LauraR",status:"alive"},
+  {name:"Alejandra",status:"alive"},
+  {name:"Alvaro",status:"alive"},
+  {name:"Carmen",status:"alive"},
+  {name:"Estefanie",status:"alive"},
+  {name:"Jackson",status:"alive"},
+  {name:"Jorge",status:"alive"},
+  {name:"Loredana",status:"alive"},
+  {name:"Mercedes",status:"alive"},
+  {name:"Olga",status:"alive"},
+  {name:"Quim",status:"alive"},
+  {name:"René",status:"alive"},
+  {name:"Sergio",status:"alive"},
+  {name:"Vanessa",status:"alive"},
+  {name:"Gisselle",status:"alive"},
+  {name:"Jose",status:"alive"},
+  {name:"Moises",status:"alive"},
+  {name:"Lorena",status:"alive"},
+  {name:"Joan",status:"alive"},
+  {name:"Giacomo",status:"alive"},
+  {name:"Ismael",status:"alive"},
+  {name:"Gabriel",status:"alive"},
+  {name:"LauraB",status:"alive"},
+];
+
 
 function startWheel() {
   const listCodersAlive = [];
