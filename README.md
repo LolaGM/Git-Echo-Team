@@ -16,6 +16,11 @@ La wheel of doom es crear un sistema de selección de sacrificios de manera just
 
 Una vez un nombre sale en la wheel, no puede volver a aparecer hasta que no se reinicie la wheel of doom.
 
+## Deploy
+
+Como lo hemos trabajado desde una organizacion de Github, el deploy lo podeis encontrar en la misma organizacion:
+https://teamechoo.github.io/Wheel-Of-Doom/
+
 ## Tools
 
 - HTML
